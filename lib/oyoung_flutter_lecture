@@ -1,0 +1,8 @@
+observable
+
+action
+
+computed
+
+// flutter pub run build_runner build
+
